@@ -43,7 +43,7 @@ colnames(plotteddata) <- unlist(strsplit(data[13,]," +"))
 ################################################################################
 # See 'plotteddata' and choose the parameter column for plotting
 
-PlotColumnNo <- 4
+PlotColumnNo <- 3
 
 ####################
 
